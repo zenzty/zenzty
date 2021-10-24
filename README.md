@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zenzty
+- 👀 I’m interested in Programming/Coding/Front-End Web Developing
+- 🌱 I’m currently learning PhP, MySQL, Ruby, Python
+- 💞️ I’m looking to collaborate on anything. I love teamwork!
+- 📫 How to reach me: hdtoki@gmail.com
